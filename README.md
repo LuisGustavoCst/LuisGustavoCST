@@ -21,10 +21,10 @@
        OS  :  Windows 10, Ubuntu Linux
 Languages  :  HTML, CSS, Python, JavaScript
    Editor  :  VS Code
-    Motto  :  "Começar é a chave, persistir é a meta"
+    Motto  :  i not real...
 ```
 
-Sou um **desenvolvedor iniciante** em busca de aprender e crescer na área de programação. Tenho foco em **desenvolvimento web** e estou sempre explorando novas tecnologias! 🚀
+Sou um **desenvolvedor iniciante** em busca de aprender e crescer na área de programação. Tenho foco em **desenvolvimento web** e estou sempre explorando novas tecnologias 🚀
 
 ---
 
@@ -50,14 +50,6 @@ Sou um **desenvolvedor iniciante** em busca de aprender e crescer na área de pr
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  
-  ![LuisGustavoCst GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisGustavoCst&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41&hide=contribs,prs)
-  
-</div>
-
 ---
 
 ## 🎯 Objetivos
@@ -77,15 +69,5 @@ Sou um **desenvolvedor iniciante** em busca de aprender e crescer na área de pr
   [![GitHub](https://img.shields.io/badge/-GitHub-00ff41?style=flat&logo=github&logoColor=000)](https://github.com/LuisGustavoCst)
   [![Instagram](https://img.shields.io/badge/-Instagram-00ff41?style=flat&logo=instagram&logoColor=000)](https://instagram.com/q4ek__)
   [![Steam](https://img.shields.io/badge/-Steam-00ff41?style=flat&logo=steam&logoColor=000)](https://steamcommunity.com/profiles/bloodzord)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ⭐ Se gostou do meu trabalho, deixe uma estrela nos meus repositórios!
-  
-  **Obrigado por visitar meu perfil!** 💚
   
 </div>
