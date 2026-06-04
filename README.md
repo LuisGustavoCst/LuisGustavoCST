@@ -26,7 +26,8 @@
        OS  :  Windows 10, Ubuntu Linux
 Languages  :  HTML, CSS, Python, JavaScript
    Editor  :  VS Code
-    Motto  :  "Começar é a chave, persistir é a meta"
+    Motto  :  i lost my mind....
+
 ```
 
 Sou um **desenvolvedor iniciante** em busca de aprender e crescer na área de programação. 
