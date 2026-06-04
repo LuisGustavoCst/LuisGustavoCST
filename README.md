@@ -62,17 +62,6 @@ Tenho foco em **desenvolvimento web** e estou sempre explorando novas tecnologia
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![LuisGustavoCst GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisGustavoCst&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41)
-
-</div>
-
----
 
 ## 🎯 Objetivos
 
@@ -84,22 +73,12 @@ Tenho foco em **desenvolvimento web** e estou sempre explorando novas tecnologia
 
 ---
 
-## 🔗 Me Encontre
+## 🔗 Links 
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-00ff41?style=flat&logo=github&logoColor=000)](https://github.com/LuisGustavoCst)
 [![Instagram](https://img.shields.io/badge/-Instagram-00ff41?style=flat&logo=instagram&logoColor=000)](https://instagram.com/q4ek__)
 [![Steam](https://img.shields.io/badge/-Steam-00ff41?style=flat&logo=steam&logoColor=000)](https://steamcommunity.com/profiles/bloodzord)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Se gostou do meu trabalho, deixe uma estrela nos meus repositórios!
-
-**Obrigado por visitar meu perfil!** 💚
 
 </div>
