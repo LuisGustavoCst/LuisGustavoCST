@@ -5,21 +5,21 @@
 
 <div align="center">
 
-# welcome to my gitHub! 
+# welcome to my gitHub
 
 
 </div>
 
 ---
 
-## 📊 Stats
+## Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=LuisGustavoCst&color=00ff41&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/LuisGustavoCst?style=flat&logo=github&logoColor=00ff41&color=00ff41)
 
 ---
 
-## 🌿 Sobre Mim
+## Sobre Mim
 
 ```
        OS  :  Windows 10, Ubuntu Linux
@@ -44,14 +44,14 @@ i dray this...
 
 </div>
 
-### 🐍 Backend
+### Backend
 <div>
 
 ![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=000)
 
 </div>
 
-### 🔧 Ferramentas
+### Ferramentas
 <div>
 
 ![Git](https://img.shields.io/badge/Git-00ff41?style=for-the-badge&logo=git&logoColor=000)
@@ -61,7 +61,7 @@ i dray this...
 
 </div>
 
-
+### Links
 
 <div align="center">
 
