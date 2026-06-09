@@ -5,9 +5,8 @@
 
 <div align="center">
 
-# Bem-vindo ao meu GitHub! 👋
+# welcome to my gitHub! 
 
-**Dev Iniciante em Jornada** | Sempre Aprendendo 🚀
 
 </div>
 
@@ -30,8 +29,7 @@ Languages  :  HTML, CSS, Python, JavaScript
 
 ```
 
-Sou um **desenvolvedor iniciante** em busca de aprender e crescer na área de programação. 
-Tenho foco em **desenvolvimento web** e estou sempre explorando novas tecnologias! 🚀
+i dray this...
 
 ---
 
@@ -64,17 +62,6 @@ Tenho foco em **desenvolvimento web** e estou sempre explorando novas tecnologia
 </div>
 
 
-## 🎯 Objetivos
-
-- 📚 Dominar os fundamentos de programação
-- 💻 Criar projetos interessantes do zero
-- 🌱 Aprender novos frameworks e bibliotecas
-- 🤝 Contribuir com a comunidade de desenvolvedores
-- 🚀 Crescer e se tornar um desenvolvedor sênior
-
----
-
-## 🔗 Links 
 
 <div align="center">
 
