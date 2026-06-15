@@ -67,6 +67,6 @@ i dray this...
 
 [![GitHub](https://img.shields.io/badge/-GitHub-00ff41?style=flat&logo=github&logoColor=000)](https://github.com/LuisGustavoCst)
 [![Instagram](https://img.shields.io/badge/-Instagram-00ff41?style=flat&logo=instagram&logoColor=000)](https://instagram.com/q4ek__)
-[![Steam](https://img.shields.io/badge/-Steam-00ff41?style=flat&logo=steam&logoColor=000)](https://steamcommunity.com/profiles/bloodzord)
+[![Steam](https://img.shields.io/badge/-Steam-00ff41?style=flat&logo=steam&logoColor=000)](https://steamcommunity.com/id/bloodzord)
 
 </div>
